@@ -15,6 +15,7 @@
 		68AF03F91D4EDBE10060FF61 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 68AF03F71D4EDBE10060FF61 /* LaunchScreen.storyboard */; };
 		68AF04041D4EDBE10060FF61 /* LineSpaceForTextViewTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 68AF04031D4EDBE10060FF61 /* LineSpaceForTextViewTests.m */; };
 		68AF040F1D4EDBE10060FF61 /* LineSpaceForTextViewUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 68AF040E1D4EDBE10060FF61 /* LineSpaceForTextViewUITests.m */; };
+		68AF041D1D4EED170060FF61 /* 1.gif in Resources */ = {isa = PBXBuildFile; fileRef = 68AF041C1D4EED170060FF61 /* 1.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		68AF040A1D4EDBE10060FF61 /* LineSpaceForTextViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LineSpaceForTextViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		68AF040E1D4EDBE10060FF61 /* LineSpaceForTextViewUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LineSpaceForTextViewUITests.m; sourceTree = "<group>"; };
 		68AF04101D4EDBE10060FF61 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		68AF041C1D4EED170060FF61 /* 1.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = 1.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				68AF03ED1D4EDBE10060FF61 /* AppDelegate.m */,
 				68AF03EF1D4EDBE10060FF61 /* ViewController.h */,
 				68AF03F01D4EDBE10060FF61 /* ViewController.m */,
+				68AF041C1D4EED170060FF61 /* 1.gif */,
 				68AF03F21D4EDBE10060FF61 /* Main.storyboard */,
 				68AF03F51D4EDBE10060FF61 /* Assets.xcassets */,
 				68AF03F71D4EDBE10060FF61 /* LaunchScreen.storyboard */,
@@ -245,6 +248,7 @@
 			files = (
 				68AF03F91D4EDBE10060FF61 /* LaunchScreen.storyboard in Resources */,
 				68AF03F61D4EDBE10060FF61 /* Assets.xcassets in Resources */,
+				68AF041D1D4EED170060FF61 /* 1.gif in Resources */,
 				68AF03F41D4EDBE10060FF61 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -496,6 +500,7 @@
 				68AF04151D4EDBE10060FF61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		68AF04161D4EDBE10060FF61 /* Build configuration list for PBXNativeTarget "LineSpaceForTextViewTests" */ = {
 			isa = XCConfigurationList;
@@ -504,6 +509,7 @@
 				68AF04181D4EDBE10060FF61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		68AF04191D4EDBE10060FF61 /* Build configuration list for PBXNativeTarget "LineSpaceForTextViewUITests" */ = {
 			isa = XCConfigurationList;
@@ -512,6 +518,7 @@
 				68AF041B1D4EDBE10060FF61 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
