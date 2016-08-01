@@ -1,6 +1,7 @@
 # LineSpaceForTextView
 给textView设置placeholder，字体颜色和行间距
 
+![image](https://github.com/codeliu6572/LineSpaceForTextView/blob/master/LineSpaceForTextView/1.gif)
 
 博客链接地址：http://blog.csdn.net/CodingFire/article/details/52083237
 
